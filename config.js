@@ -6,7 +6,7 @@ Rominaru
 Kannachann
 The.sad.Boy01
 Rasel comel
-Xtreshe (Beban)
+BangRulz (Beban)
 Dll
 */
 
@@ -41,30 +41,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/zalfapontianak'
-global.sgh = 'https://github.com/Botynyakamu'
-global.sgc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
-global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
-global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
+global.sig = 'https://instagram.com/_alv.stn'
+global.sgh = 'https://github.com/KaiZax'
+global.sgc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
+global.sdc = 'https://wa.me/qr/L6MB4HVVM6OIP1'
+global.snh = 'https://youtube.com/channel/UCgaoyyeZlObOfaSSuCJaPRg'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
-global.povo = '085828764046'
-global.pgopay = '085828764046'
+global.pdana = '087734910547'
+global.povo = '087734910547'
+global.pgopay = '087734910547'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787476829'
-global.nomorown = '6285828377610'
-global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
+global.nomorbot = '62877349105478'
+global.nomorown = '6287734910547'
+global.namebot = '⳹ ❋ཻུ۪۪⸙ItsukiMD⸙ཻུ❋⳹۪۪'  //Nama Bot Kalian
+global.nameown = 'ᴹᴿ.VynZx'  //Nama Owner Bot Kalian
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610', 'Rozi', true]
+  ['6287734910547'],
+  ['6287734910547'],
+  ['6287734910547'],
+  ['6287734910547', 'VynZx', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,20 +109,20 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //Main Watermark
-global.wm2 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.wm3 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '⳹ ❋ཻུ۪۪⸙Itsuki-MD⳹ ❋ཻུ۪۪' //Main Watermark
+global.wm2 = '⳹ ❋ཻུ۪۪⸙Itsuki-MD⳹ ❋ཻུ۪۪'
+global.wm3 = '⳹ ❋ཻུ۪۪⸙Itsuki-MD⳹ ❋ཻུ۪۪'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ ROZI ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ VYNZ ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
-global.giflogo = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
-global.thumbs = ['https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg']
+global.thumb = 'https://telegra.ph/file/300f318800d38ed921300.mp4' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/afd0a001ca98b70f0ea3b.jpg'
+global.giflogo = 'https://telegra.ph/file/867007898b6f0d17085ef.mp4'
+global.thumbs = ['https://telegra.ph/file/75179f279b24e10426daa.jpg', 'https://telegra.ph/file/75179f279b24e10426daa.jpg', 'https://telegra.ph/file/75179f279b24e10426daa.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
@@ -175,8 +175,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `.`
+global.stickpack = 'Vyn'  //Wm Depan Stiker Rulz•
+global.stickauth = `Cuyy` //Wm Belakang Stiker •Todz
 
 global.multiplier = 38 // The higher, The harder levelup
 
