@@ -119,10 +119,10 @@ global.author = '┄┄┄┅┅❑ VYNZ ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/6793ebf2ec08c238cc20f.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/afd0a001ca98b70f0ea3b.jpg'
-global.giflogo = 'https://telegra.ph/file/867007898b6f0d17085ef.mp4'
-global.thumbs = ['https://telegra.ph/file/75179f279b24e10426daa.jpg', 'https://telegra.ph/file/75179f279b24e10426daa.jpg', 'https://telegra.ph/file/75179f279b24e10426daa.jpg']
+global.thumb = 'https://telegra.ph/file/8423cd64e9180cbaf1355.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/9a83e32eae575746fec16.jpg'
+global.giflogo = 'https://telegra.ph/file/1ab6454fe639eb7e64f5a.jpg'
+global.thumbs = ['https://telegra.ph/file/9a83e32eae575746fec16.jpg', 'https://telegra.ph/file/9a83e32eae575746fec16.jpg', 'https://telegra.ph/file/9a83e32eae575746fec16.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
@@ -147,7 +147,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
+global.thumbdoc = 'https://telegra.ph/file/3a149a3f2cb64e6511e50.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
