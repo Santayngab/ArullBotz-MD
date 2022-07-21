@@ -119,7 +119,7 @@ global.author = '┄┄┄┅┅❑ VYNZ ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/300f318800d38ed921300.mp4' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/6793ebf2ec08c238cc20f.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/afd0a001ca98b70f0ea3b.jpg'
 global.giflogo = 'https://telegra.ph/file/867007898b6f0d17085ef.mp4'
 global.thumbs = ['https://telegra.ph/file/75179f279b24e10426daa.jpg', 'https://telegra.ph/file/75179f279b24e10426daa.jpg', 'https://telegra.ph/file/75179f279b24e10426daa.jpg']
