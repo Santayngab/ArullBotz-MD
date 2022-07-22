@@ -7,6 +7,7 @@ Kannachann
 The.sad.Boy01
 Rasel comel
 BangRulz (Beban)
+ArullOfc (saya)
 Dll
 */
 
@@ -41,30 +42,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/_alv.stn'
-global.sgh = 'https://github.com/KaiZax'
-global.sgc = 'https://chat.whatsapp.com/F6CAAOhrORm1sPdq6cRKAS'
-global.sdc = 'https://wa.me/qr/L6MB4HVVM6OIP1'
-global.snh = 'https://youtube.com/channel/UCgaoyyeZlObOfaSSuCJaPRg'
+global.sig = 'https://instagram.com/sahrulwara_____'
+global.sgh = 'https://github.com/Warikrr'
+global.sgc = 'https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5'
+global.sdc = 'https://youtu.be/FZIWILEpXTg'
+global.snh = 'https://youtu.be/IL2PZql859c'
 
 /*============== PAYMENT ==============*/
-global.pdana = '087734910547'
-global.povo = '087734910547'
-global.pgopay = '087734910547'
+global.pdana = '085822347348'
+global.povo = ''
+global.pgopay = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62877349105478'
-global.nomorown = '6287734910547'
-global.namebot = '⳹ ❋ཻུ۪۪⸙ItsukiMD⸙ཻུ❋⳹۪۪'  //Nama Bot Kalian
-global.nameown = 'ᴹᴿ.VynZx'  //Nama Owner Bot Kalian
+global.nomorbot = '6281348735630'
+global.nomorown = '6285822347348'
+global.namebot = 'ArullBotz'  //Nama Bot Kalian
+global.nameown = 'ARULL OFC'  //Nama Owner Bot Kalian
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287734910547'],
-  ['6287734910547'],
-  ['6287734910547'],
-  ['6287734910547', 'VynZx', true]
+  ['6285822347348'],
+  ['6285822347348'],
+  ['6285822347348'],
+  ['6285822347348', 'ARULL OFC', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +110,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙Itsuki-MD⳹ ❋ཻུ۪۪' //Main Watermark
-global.wm2 = '⳹ ❋ཻུ۪۪⸙Itsuki-MD⳹ ❋ཻུ۪۪'
-global.wm3 = '⳹ ❋ཻུ۪۪⸙Itsuki-MD⳹ ❋ཻུ۪۪'
+global.wm = 'ArullBotz' //Main Watermark
+global.wm2 = 'ArullBotz'
+global.wm3 = 'ArullBotz'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ VYNZ ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ Arull ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
@@ -175,7 +176,7 @@ global.lolm = 'Ⓛ'
 global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Vyn'  //Wm Depan Stiker Rulz•
+global.stickpack = 'ArullOfc'  //Wm Depan Stiker Rulz•
 global.stickauth = `Cuyy` //Wm Belakang Stiker •Todz
 
 global.multiplier = 38 // The higher, The harder levelup
